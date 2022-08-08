@@ -270,6 +270,7 @@ export default {
   font-size: 13px;
   text-transform: capitalize;
   font-weight: 600;
+  
 }
 .discount span {
   background: hsl(14, 92%, 95%);
